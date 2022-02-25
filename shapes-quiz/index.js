@@ -1,4 +1,4 @@
-const quizShapes = [
+const quizShapes = [ 
     {
         question: "Q1 : A  solid object has 6 faces, 12 edges and 8 corners. This object could be a...?",
         a: "Cylinder",
@@ -7,6 +7,7 @@ const quizShapes = [
         d: "Sphere",
         ans: "ans2" 
     },
+    
     {
         question: "Q2 : How many faces does a Cube have?",
         a: "6",
