@@ -1,83 +1,83 @@
 const quizSolar = [
     {
-        question: "Q1 : Which is the largest planet in our solar system?",
+        question: "Q1 : How many planets are present in our solar system?",
+        a: "7",
+        b: "6",
+        c: "8",
+        d: "9",
+        ans: "ans3" 
+    },
+    {
+        question: "Q2 Which is the largest planet in our solar system?",
         a: "Saturn",
-        b: "Jupiter",
+        b: "Mars",
         c: "Earth",
-        d: "Mars",
+        d: "Jupiter",
+        ans: "ans4" 
+    },
+    {
+        question: "Q3 : Which is the first planet from the Sun?",
+        a: "Mars",
+        b: "Mercury",
+        c: "Venus",
+        d: "Saturn",
         ans: "ans2" 
     },
     {
-        question: "Q2 : ",
-        a: "",
-        b: "",
-        c: "",
-        d: "",
-        ans: "" 
+        question: "Q4 : Which planet is known as the morning or evening “star”?",
+        a: "Venus",
+        b: "Earth",
+        c: "Mercury",
+        d: "Uranus",
+        ans: "ans1" 
     },
     {
-        question: "Q3 : ",
-        a: "",
-        b: "",
-        c: "",
-        d: "",
-        ans: "ans" 
+        question: "Q5 : How many days does Earth take to complete one orbit of the Sun?",
+        a: "24",
+        b: "365",
+        c: "368",
+        d: "364",
+        ans: "ans2" 
     },
     {
-        question: "Q4 :  ",
-        a: "",
-        b: "",
-        c: "",
-        d: "",
-        ans: "ans" 
+        question: "Q6 : Mars is often called as the _______ planet.",
+        a: "Giant planet",
+        b: "Blue planet",
+        c: "Red planet",
+        d: "Star",
+        ans: "ans3" 
     },
     {
-        question: "Q5 :  ",
-        a: "",
-        b: "",
-        c: "",
-        d: "",
-        ans: "ans" 
+        question: "Q7 : In a telescope, Saturn appears to be of which colour?",
+        a: "Blue",
+        b: "Red",
+        c: "White",
+        d: "Pale yellow",
+        ans: "ans4" 
     },
     {
-        question: "Q6 : ?",
-        a: "",
-        b: "",
-        c: "",
-        d: "",
-        ans: "ans" 
+        question: "Q8 : How many known moons does Neptune have?",
+        a: "10",
+        b: "11",
+        c: "13",
+        d: "9",
+        ans: "ans3" 
     },
     {
-        question: "Q7 : ",
-        a: "",
-        b: "",
-        c: "",
-        d: "",
-        ans: "ans" 
+        question: "Q9 : What is Uranus mainly made up of?",
+        a: "Rocks",
+        b: "Iron",
+        c: "Hydrogen",
+        d: "Ice",
+        ans: "ans4" 
     },
     {
-        question: "Q8 : ",
-        a: "",
-        b: "",
-        c: "",
-        d: "",
-        ans: "ans" 
-    },
-    {
-        question: "Q9 : ",
-        a: "",
-        b: "",
-        c: "",
-        d: "",
-        ans: "ans" 
-    },
-    {
-        question: "Q10 : ",
-        a: "",
-        b: "",
-        c: "",
-        d: "",
-        ans: "ans" 
+        question: "Q10 : Which planet is known as the 'lord of the rings'?",
+        a: "Jupiter",
+        b: "Saturn",
+        c: "Venus",
+        d: "Uranus",
+        ans: "ans2" 
     }
 ];
 
